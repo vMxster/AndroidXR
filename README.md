@@ -1,2 +1,2 @@
-# visionOS
-In-depth study on visionOS for the Mobile Systems Programming Course
+# AndroidXR
+In-depth study on AndroidXR for the Mobile Systems Programming Course
