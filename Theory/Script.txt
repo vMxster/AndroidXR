@@ -1,0 +1,88 @@
+Slide 1: Titolo e Apertura (20s)
+* Titolo: Android XR: Il Futuro della Realtà Estesa
+* Apertura: Benvenuto, Martin Tomassi. Presentazione Android XR: il nuovo OS Google per AI e realtà estesa.
+
+Slide 2: Introduzione Strategica (40s)
+* Perché un nuovo OS? Limiti smartphone/tablet per AR/VR.
+* Obiettivo: OS nativo per unificare VR, AR, MR.
+* Partnership: Google, Samsung, Qualcomm.
+* Strategia Google: Ecosistema aperto, focus su software e IA.
+* Contesto: Risposta strategica al mercato XR (post-Apple Vision Pro).
+
+Slide 3: Cos'è Android XR? (40s)
+* Definizione: Estensione dell'ecosistema Android.
+* Non solo un OS: Piattaforma completa.
+* Supporto dispositivi: Visori immersivi (Project Moohan), occhiali intelligenti leggeri.
+* Sviluppo app: Framework familiari (Android), standard aperti (OpenXR, WebXR).
+
+Slide 4: Architettura e Compatibilità Mobile (40s)
+* Punto di forza: Elevata compatibilità.
+* Apps esistenti: La maggior parte compatibile 'out-of-the-box'.
+* Necessità ottimizzazione: Per esperienze immersive vere.
+* Proiezione app 2D: Su pannello virtuale di **1024 x 720 dp**.
+
+Slide 5: Modalità Home Space vs Full Space (40s)
+* Due modalità: Bilanciare familiarità e immersione.
+* Home Space:
+    * Multitasking, app affiancate.
+    * Ambiente familiare (come smartphone/tablet).
+    * Pannelli 2D a 1,75 m.
+* Full Space:
+    * Esperienze completamente immersive (un'app alla volta).
+    * Illimitato spazialmente.
+    * Supporto 3D, ambienti spaziali, video stereoscopici.
+
+Slide 6: Strumenti di Sviluppo (40s)
+* Scelta per sviluppatori: Molteplici strumenti.
+* Jetpack XR SDK: Per Kotlin e Compose (UI spaziale, SceneCore, ARCore).
+* Unity: Con supporto OpenXR.
+* OpenXR: API nativa (standard aperto).
+* WebXR: Esperienze immersive da browser.
+* Obiettivo: Massimizzare l'adozione e la creazione di contenuti.
+
+Slide 7: Integrazione con Gemini AI (40s)
+* Cuore di Android XR: Integrazione profonda con **Gemini AI**.
+* Capacità multimodali: Interpreta contesto visivo e audio.
+* Assistenza: 'Hands-free', traduzione/sintesi vocale in tempo reale, navigazione aumentata.
+* 'Game Changer': Interazione XR più naturale e contestuale.
+
+Slide 8: Esempi Pratici di Applicazione (40s)
+* Google Maps: Modalità immersiva, indicazioni proiettate.
+* Traduzioni AR: Sottotitoli in tempo reale.
+* Video: 180°/360° (stereoscopici) da YouTube.
+* Controllo vocale: IA abilita interazione a mani libere.
+* Potenziale: Istruzione, sanità, produttività, turismo.
+
+Slide 9: Project Moohan – Il Primo Dispositivo (30s)
+* Primo dispositivo: **Project Moohan** di Samsung (2025).
+* Hardware: Qualcomm Snapdragon XR2 Plus Gen 2, 16 GB RAM.
+* Display: 4K OLEDoS da Sony.
+* Lancio: Previsto in Corea (ottobre), poi globale.
+* Nota: Data precisa ancora da conferma ufficiale.
+
+Slide 10: Sistema di Navigazione Gestuale (40s)
+* Innovazione: Combina familiarità Android con interazioni spaziali.
+* Gesture: Solleva mano + 'pinch'.
+* Appaiono: 'Diamante' virtuale con pulsanti Android (Home, Indietro, App Recenti).
+* Tracciamento: Mani e occhi con 'Auto-Detect'.
+* Obiettivo: Navigazione intuitiva e fluida.
+
+Slide 11: Sicurezza e Privacy (40s)
+* Focus: Privacy al centro del design.
+* Permessi: Espliciti e granulari per fotocamera e sensori (simili a smartphone).
+* Dati sensibili: 'Flusso video di avatar' (non immagini reali) per tracciamento.
+* Controllo utente: Dashboard Privacy.
+* Obiettivo: Costruire fiducia nell'utente per l'adozione di massa.
+
+Slide 12: Vantaggi per gli Sviluppatori (40s)
+* Opportunità enorme: Per sviluppatori mobile.
+* Curva di apprendimento ridotta: API e framework familiari.
+* Compatibilità automatica: Per molte app esistenti.
+* Monetizzazione: Integrazione con Google Play Store (modelli consolidati).
+* Strumenti: Android Studio, Unity, OpenXR pronti all'uso.
+
+Slide 13: Futuro e Opportunità di Mercato (30s)
+* Competizione: Con Apple Vision Pro e Meta Quest.
+* Strategia: Piattaforma aperta + **prezzo aggressivo** (Moohan $1.000-$2.000 vs $3.499 Apple).
+* Obiettivo: Diffusione di massa, democratizzazione dell'XR.
+* Vantaggio: Sfruttare la forza dell'ecosistema Android esistente.
